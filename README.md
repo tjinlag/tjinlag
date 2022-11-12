@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Short-circuit evaluation in JavaScript](https://tjinlag.medium.com/short-circuit-evaluation-in-javascript-fabb4367cd68?source=rss-8b194022adec------2)
+- [Everything you should know about array reduce method in JavaScript](https://tjinlag.medium.com/everything-you-should-know-about-the-reduce-function-in-javascript-11cae7e7ddc?source=rss-8b194022adec------2)
+- [Memoize function in JavaScript](https://tjinlag.medium.com/memoize-javascript-function-638f3b7c80e9?source=rss-8b194022adec------2)
+- [Should React Hooks  return Array or Object?](https://tjinlag.medium.com/react-hooks-should-return-array-or-object-81b0a0fd4447?source=rss-8b194022adec------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
